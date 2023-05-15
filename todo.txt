@@ -1,0 +1,12 @@
+Manifest
+Exercise
+Have breakfast
+CODE
+Have lunch
+Work-Out
+Tan
+More CODE
+Have dinner
+CODE again
+Sleep
+Create web apps
